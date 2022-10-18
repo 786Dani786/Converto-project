@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "tool_Name": "Merge PDF",
+    "Onclik_function": "mergePDF",
+    "pageLink": "/merge_pdf",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Merge PDF"
+  },
+  {
+    "id": 2,
+    "tool_Name": "Split PDF",
+    "Onclik_function": "splitPDF",
+    "pageLink": "/split_pdf",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Split PDF"
+  },
+  {
+    "id": 3,
+    "tool_Name": "Compress PDF",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/compress_pdf",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Compress PDF"
+  },
+  {
+    "id": 4,
+    "tool_Name": "Word to pdf",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/word_to_pdf",
+    "type": "application/msword",
+    "isPopular": "true",
+    "shortDesc": "Convert MS Word documents to PDF documents.",
+    "imageSrc": "images/pdf-to-word.jfif",
+    "alt": "Pdf to Word",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 5,
+    "tool_Name": "Jpg to Pdf",
+    "Onclik_function": "abcd",
+    "pageLink": "/jpg_to_pdf",
+    "type": "image/jpeg",
+    "isPopular": "true",
+    "shortDesc": "Convert JPG documents to PDF documents.",
+    "imageSrc": "images/pdf-to-jpg.jfif",
+    "alt": "Pdf to Jpg",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 6,
+    "tool_Name": "Powerpoint to pdf",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/ppt_to_pdf",
+    "type": "application/ppt, application/pptx",
+    "isPopular": "true",
+    "shortDesc": "Convert PPT documents to PDF documents.",
+    "imageSrc": "images/pdf-to-ppt.jfif",
+    "alt": "Pdf to Power Point",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 7,
+    "tool_Name": "Html to Pdf",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/html_to_pdf",
+    "type": ".html",
+    "isPopular": "true",
+    "shortDesc": "Convert HTML documents   to PDF documents.",
+    "imageSrc": "images/pdf-to-html.jfif",
+    "alt": "Pdf to Excel",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 8,
+    "tool_Name": "Excel to pdf",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/excel_to_pdf",
+    "isPopular": "true",
+    "type": ".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel",
+    "shortDesc": "Convert Excel documents to PDF  documents.",
+    "imageSrc": "images/pdf-to-excel.jfif",
+    "alt": "Pdf to Excel",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 9,
+    "tool_Name": "Pdf to Jpg",
+    "pageLink": "/pdf_to_jpg",
+    "isPopular": "false",
+    "type": "application/pdf",
+    "Onclik_function": "PdfToJpg",
+    "buttonName": "Convert To JPG"
+  },
+  {
+    "id": 10,
+    "tool_Name": "pdf to word",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/pdf_to_word",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Convert To MS Word"
+  },
+  {
+    "id": 11,
+    "tool_Name": "pdf to html",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/pdf_to_html",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Convert To Pdf"
+  },
+  {
+    "id": 12,
+    "tool_Name": "pdf to excel",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/pdf_to_excel",
+    "type": "application/pdf",
+    "isPopular": "false",
+    "buttonName": "Convert To MS Excel"
+  },
+  {
+    "id": 13,
+    "tool_Name": "pdf to Powerpoint",
+    "Onclik_function": "compressPDF",
+    "pageLink": "/pdf_to_ppt",
+    "isPopular": "flase",
+    "type": "application/pdf",
+    "buttonName": "Convert To Power point"
+  }
+]
